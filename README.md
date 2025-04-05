@@ -1,4 +1,4 @@
-# Homework-7
+# Homework-5
 This repository contains a time series data set on monthly solar energy consumption from 1984-2024 in the United States. Solar energy consumption is measured in quadrillion BTUs, or British Thermal Units.
 
 The time series data and data dictionary can be found in the CSV files.
