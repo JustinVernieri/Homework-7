@@ -1,9 +1,9 @@
-# Homework-7, SCROLL TO BOTTOM OF RMD AND HTML FILES TO FIND ARIMA
+# Homework-7
 This repository contains a time series data set on monthly solar energy consumption from 1984-2024 in the United States. Solar energy consumption is measured in quadrillion BTUs, or British Thermal Units.
 
 The time series data and data dictionary can be found in the CSV files.
 
-The HTML and RMD files contain different time series models and forecasts.
+The HTML and RMD files contain different time series models and forecasts, including ARIMA.
 
 Data Collection Methodology: The data is collected monthly and annually by the United States Energy Information Administration (EIA), which is made publicly available on their official website. Each month, new data is presented, yet it is preliminary and sometimes based on estimates or forecasts. However, at the end of each year, they are revised when the EIA's primary and secondary sources publish final data and survey results, and industry reports are finalized.
 
